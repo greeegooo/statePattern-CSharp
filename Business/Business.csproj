@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Dao\Dao.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>
